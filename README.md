@@ -5,8 +5,7 @@
 
 ## Project Description
 
-This repository contains the coursework, sensor integration exercises, and programming assignments completed during the 2026 IoT Summer School. It tracks my progress week-by-week, starting from basic microcontroller setup in C++ to advanced IoT deployments. The repository culminates in a comprehensive final project demonstrating end-to-end hardware and software integration.
-
+This repository contains the coursework, sensor integration exercises, and programming assignments completed during the 2026 IoT Summer School. It tracks my progress week-by-week, starting from basic microcontroller setup in C++ to advanced IoT deployments. The repository culminates in a comprehensive final project demonstrating end-to-end hardware and software integration
 ## Interactive LED Blink with Potentiometer Control
 
 **Author:** Palle Sushanth Reddy  
