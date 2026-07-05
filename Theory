@@ -1,0 +1,23 @@
++-------------------------------------------------------------+
+|                     4. Application Layer                    |
+|             Delivers services to the end user.              |
+|             Example: Smart Home Mobile App                  |
++------------------------------^------------------------------+
+                               | 
++------------------------------|------------------------------+
+|                     3. Processing Layer                     |
+|           Analyzes, stores, and processes the data.         |
+|             Example: AWS IoT Core (Cloud Server)            |
++------------------------------^------------------------------+
+                               | 
++------------------------------|------------------------------+
+|                      2. Network Layer                       |
+|        Transmits data between sensors and the cloud.        |
+|             Example: Wi-Fi (or LoRaWAN / 5G)                |
++------------------------------^------------------------------+
+                               | 
++------------------------------|------------------------------+
+|                     1. Perception Layer                     |
+|        Gathers physical data and interacts with the world.  |
+|             Example: DHT11 Temperature Sensor               |
++-------------------------------------------------------------+
