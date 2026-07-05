@@ -1,3 +1,4 @@
+//use this program in Arduino IDE compiler for blinking the LED using arduino board
 void setup() {
   // Initialize digital pin 13 as an output.
   pinMode(13, OUTPUT ) ;
